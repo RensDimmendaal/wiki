@@ -1,4 +1,4 @@
 # wiki
 
-Welcome to my wiki.
+This is just a placeholder
 
