@@ -9,3 +9,7 @@
 * [Books](data-science/books.md)
 * [Tensorflow resources](data-science/tensorflow-resources.md)
 
+## Mac Stuff <a id="tools"></a>
+
+* [Hotkeys](tools/hotkeys.md)
+
