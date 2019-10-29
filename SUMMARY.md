@@ -12,4 +12,5 @@
 ## Tools
 
 * [Karabiner -- Hotkeys](tools/hotkeys.md)
+* [VSCode](tools/vscode.md)
 
