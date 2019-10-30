@@ -8,16 +8,16 @@ When start a new project i simply type `mkconda` in my project directory which c
 # Make conda environment
 function mkconda() {
     dir=$(echo $PWD | rev | cut -d/ -f1 | rev)
-    conda create -n $1 -y python=3.7
+    conda create -n ${dir} -y python=3.7
     conda deactivate
-    conda activate $1
+    conda activate ${dir}
 }
 
 # Remove conda environment
 function rmconda() {
     dir=$(echo $PWD | rev | cut -d/ -f1 | rev)
     conda deactivate
-    conda remove -n $1 --all
+    conda remove -n ${dir} --all
 }
 
 # Activate conda environment
