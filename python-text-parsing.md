@@ -1,0 +1,6 @@
+# Python text parsing
+
+* [Parse --  Opposite of .format ](https://github.com/r1chardj0n3s/parse)
+* [Verbal Expressions -- human readable regex pipelines](https://github.com/VerbalExpressions/PythonVerbalExpressions)
+* [Pythex -- test python regex](https://pythex.org/)
+

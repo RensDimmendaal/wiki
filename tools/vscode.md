@@ -3,6 +3,7 @@
 ## Complex autoformatting
 
 I like use multiple packages for autoformatting:
+
 * [docformatter](https://pypi.org/project/docformatter/) to autoformat docstrings
 * [isort](https://pypi.org/project/isort/) to automatically sort and group imports
 * [black](https://pypi.org/project/black/) to format all other things
@@ -14,7 +15,8 @@ Running all these commands in sequence gets tiring so in vscode I automated that
 I specify the command in my vscode settings as follows:
 
 settings.json
-```json
+
+```javascript
 {
 "command-runner.commands": {
   "docstring formatter": "conda activate ${workspaceFolderBasename} && docformatter --in-place --wrap-descriptions 88 --wrap-summaries 88 --blank ${file} && isort ${file} && black ${file} && flake8 ${file}",
@@ -26,7 +28,7 @@ Note: I always name my conda environment the same as the workspace Folder Basena
 
 tox.ini:
 
-```tox.ini
+```text
 [flake8]
 # Recommend matching the black line length (default 88),
 # rather than using the flake8 default of 79:
@@ -48,12 +50,11 @@ import-order-style=google
 
 ## Restart and Rerun Python Interactive
 
-When I run things interactively I like to make sure my kernel is clean.
-I use the vscode [multi command](https://marketplace.visualstudio.com/items?itemName=ryuta46.multi-command) extension to chain together
-the restart kernel, remove all cells, and the run file interactive in sequence.
+When I run things interactively I like to make sure my kernel is clean. I use the vscode [multi command](https://marketplace.visualstudio.com/items?itemName=ryuta46.multi-command) extension to chain together the restart kernel, remove all cells, and the run file interactive in sequence.
 
 settings.json
-```json
+
+```javascript
 {
     "multiCommand.commands": [
         {
@@ -71,7 +72,8 @@ settings.json
 Since I use it a lot I've bound it to cmd+R:
 
 keybindings.json
-```json
+
+```javascript
 [
     {
         "key": "cmd+r",
@@ -80,3 +82,4 @@ keybindings.json
     }
 ]
 ```
+

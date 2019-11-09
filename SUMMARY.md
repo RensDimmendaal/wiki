@@ -13,4 +13,6 @@
 
 * [Karabiner -- Hotkeys](tools/hotkeys.md)
 * [VSCode](tools/vscode.md)
+* [Python articles](python-articles.md)
+* [Python text parsing](python-text-parsing.md)
 
