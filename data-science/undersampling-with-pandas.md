@@ -10,7 +10,7 @@ A common way of dealing with this issue is undersampling, which means you remove
 
 To do this in pandas you can use the snippet below. You should consider using it if you are facing imbalanced classes.
 
-```python
+```py
 import pandas as pd
 
 def downsample(df:pd.DataFrame, label_col_name:str) -> pd.DataFrame:
