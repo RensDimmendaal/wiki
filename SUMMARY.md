@@ -1,8 +1,8 @@
 # Table of contents
 
 * [wiki](README.md)
-* [Public speaking](public-speaking/README.md)
-  * [Untitled](public-speaking/untitled.md)
+* [Visualization](visualization.md)
+* [Public speaking](public-speaking.md)
 
 ## Data Science
 
