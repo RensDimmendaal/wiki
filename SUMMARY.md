@@ -1,6 +1,8 @@
 # Table of contents
 
 * [wiki](README.md)
+* [Public speaking](public-speaking/README.md)
+  * [Untitled](public-speaking/untitled.md)
 
 ## Data Science
 
@@ -13,6 +15,6 @@
 
 * [Karabiner -- Hotkeys](tools/hotkeys.md)
 * [VSCode](tools/vscode.md)
-* [Python articles](python-articles.md)
-* [Python text parsing](python-text-parsing.md)
+* [Python articles](tools/python-articles.md)
+* [Python text parsing](tools/python-text-parsing.md)
 
