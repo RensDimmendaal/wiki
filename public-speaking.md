@@ -16,7 +16,8 @@ Short and sweet:
 * Guide attention within slide with animation, contrast, and size
 * Display slide, *after* you've made the point as a reminder/illustration
 
-* [Deckset](https://deckset.com) make this easy to do.
+Sources:
+
 * [Video: Death by powerpoint](https://www.youtube.com/watch?v=Iwpi1Lm6dFo)
 * [Best Practices from TED:](https://mobile.twitter.com/Martin_Jordan/status/922114139648069633)
 * [Doing presentations](%20http://www.doingpresentations.com/index.html)
