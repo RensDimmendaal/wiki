@@ -1,0 +1,7 @@
+{
+    "pasteImage.basePath": "${currentFileDir}",
+    "pasteImage.path": "${projectRoot}/.gitbook/assets/",
+    "pasteImage.filePathConfirmInputBoxMode": "onlyName",
+    "pasteImage.showFilePathConfirmInputBox": true
+    
+}
