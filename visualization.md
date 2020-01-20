@@ -7,5 +7,11 @@
 Resources:
 
 * [Slides on visualization](https://saravanan-thirumuruganathan.github.io/cse5334Spring2015/slides/03_PrinciplesOfViz/03_PrinciplesOfViz_final.pdf)
-* [Focused tutorial on matplotlib](https://pbpython.com/effective-matplotlib.html)
 
+
+## Matplotlib
+
+[Focused tutorial on matplotlib](https://pbpython.com/effective-matplotlib.html)
+Nice cheat sheet:
+
+![](.gitbook/assets/matplotlib-pbpython-example.png)
