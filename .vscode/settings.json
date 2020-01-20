@@ -2,6 +2,8 @@
     "pasteImage.basePath": "${currentFileDir}",
     "pasteImage.path": "${projectRoot}/.gitbook/assets/",
     "pasteImage.filePathConfirmInputBoxMode": "onlyName",
-    "pasteImage.showFilePathConfirmInputBox": true
+    "pasteImage.showFilePathConfirmInputBox": true,
+    "python.formatting.provider": "black",
+    "python.pythonPath": "/anaconda3/envs/sandbox38/bin/python"
     
 }

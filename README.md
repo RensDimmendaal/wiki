@@ -1,6 +1,3 @@
-# wiki
+# Read Me
 
-Testing image upload. I like this example:
-
-![](.gitbook/assets/matplotlib-pbpython-example.png)
-
+Welcome to this wiki.
